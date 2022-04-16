@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 // Css
-import './app.css';
+import './App.css';
 // Axios
 import axios from 'axios';
 // Components
